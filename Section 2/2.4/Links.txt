@@ -1,0 +1,7 @@
+Amazon Transcribe pricing model :
+
+https://aws.amazon.com/transcribe/pricing/?nc=sn&loc=3
+
+Supported languages by Amazon Transcribe and language-specific features :
+
+https://docs.aws.amazon.com/transcribe/latest/dg/supported-languages.html

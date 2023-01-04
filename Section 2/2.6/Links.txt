@@ -1,0 +1,5 @@
+Install Puaudio on Raspberry Pi 4 :
+
+sudo apt-get install libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-dev
+sudo pip3 install pyaudio
+

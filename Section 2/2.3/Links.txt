@@ -1,0 +1,16 @@
+Remote access of Raspberry Pi 4 :
+
+https://www.youtube.com/watch?v=V4gCtw9tvYY&t=117s
+
+Update or Upgrade Raspberry Pi 4 :
+
+https://jamesjdavis.medium.com/how-to-update-raspberry-pi-just-follow-these-easy-steps-ac507cf70238
+
+Install Python3 on Raspberry Pi 4 :
+
+https://allurcode.com/install-latest-version-of-python-on-raspberry-pi/
+
+AWS CLI install and update instructions : 
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+

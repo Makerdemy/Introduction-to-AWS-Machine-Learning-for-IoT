@@ -1,0 +1,3 @@
+Amazon Rekognition pricing :
+
+https://aws.amazon.com/rekognition/pricing/?nc=sn&loc=4

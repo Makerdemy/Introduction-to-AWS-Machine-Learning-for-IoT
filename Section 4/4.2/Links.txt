@@ -1,0 +1,7 @@
+AWS Marketplace :
+
+https://aws.amazon.com/marketplace
+
+Amazon SageMaker Pricing :
+
+https://aws.amazon.com/sagemaker/pricing/?nc=sn&loc=3&refid=b5c1cff2-854a-4bc8-8b50-43b965ba0b13

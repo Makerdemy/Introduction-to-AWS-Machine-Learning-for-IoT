@@ -1,0 +1,3 @@
+Voices in Amazon polly :
+
+https://docs.aws.amazon.com/polly/latest/dg/voicelist.html
